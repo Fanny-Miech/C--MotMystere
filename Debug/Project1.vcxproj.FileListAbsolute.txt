@@ -1,0 +1,2 @@
+C:\Users\fanou\Documents\2019-Campus Numérique\cours\c++\essai1\Project1\Debug\Project1.exe
+C:\Users\fanou\Documents\2019-Campus Numérique\cours\c++\essai1\Project1\Debug\Project1.pdb
